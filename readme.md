@@ -1,23 +1,35 @@
-# Minimal Personal Website + Portfolio Astro Theme
+# Bye Wall, Welcome Comment
 
-## About
+## 👋 Farewell to the Wall...
 
-This is the Minimal Personal Website + Portfolio template for Astro!
+Dear Users,
 
-This is the same template I use for my personal website! You can use it to build a personal website and portfolio that suits your needs! Read below to learn how to use this as a tempale for your own personal website!
+After thoughtful consideration, we have made the difficult decision to retire the Wall feature. The Wall has been a cherished space for capturing warm moments with our characters, and we want to express our heartfelt gratitude for the love and support you’ve shown. These memories will always hold a special place in Poly's history.
 
-## Using this as a template
+Meanwhile, to provide an even better interactive experience, we are now inviting you to:
 
-Want to create your own website from this template? Click `Use this template` to get started! This is an theme that has been verified by Astro (the framework used to built my website) as a theme. You can find the posting [here](https://astro.build/themes/details/minimal-personal-website-portfolio/).
+## 🚀 Be the First to Drop a Comment!
 
-Once you've copied the code via the use template button and cloned your copy of the template locally, you can get started by running `npm install`. This will install the dependencies (you only need to do this once). Next, run `npm run dev` to start the dev server.
+🔥 The new feature—the **Character Comment Section**—has been live for a while now. We've seen the sparks flying as you comment and connect with other users. It's been nothing short of amazing!
 
-Now, you can edit the json files in src/content/data to customize the template with your own information. Make sure to update each file in src/content/data accordingly. Make sure to update the site's domain in `astro.config.mjs` to your website's domain as well.
+But, here's the scoop: some characters' comment sections are still as empty as a ghost town, waiting for their first comment. That's not the Poly way! So, what are you waiting for??
 
-Make sure to delete `/.github/workflows/deploy.yml` if you don't want your site deployed to Github pages.
+🎉 **Drop any words or images—your creativity is unlimited!** Join the comment frenzy and let your voice BE THE FIRST to claim the spotlight. You can:
+1. Leave a simple "hello" 
+2. Share your chats with the characters
+3. Express what you love most about them!
 
-Please open an issue [here](https://github.com/raspberri05/website/issues) if you are having any trouble with using this repository as a template and I can try my best to help resolve the issue.
+**Example of Stellar Comments 🌟**
 
-## Want new features in this template?
+![image](https://github.com/user-attachments/assets/a53cbad1-60c5-4254-877d-aeaf560c515d)
 
-Please open an issue that explains the feature request in detail or pull request adding the feature on the template repository (not your copy of the template)!
+**📍 Easy steps to Comment:**
+
+**1. Get to the character page.**
+
+_Just click on the character avatar._
+
+**2. Leave ANY words or images.**
+
+_You can leave a simple "hello," share your chats with the characters, or talk about what you love most about them!_
+
